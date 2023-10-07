@@ -1,0 +1,1 @@
+# Teoria solamente sobre POO y algo de diagrama de clases
